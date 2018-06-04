@@ -4,4 +4,4 @@ Mirror of the contents of a bunch of .zips from http://www.cavestory.org/pixels-
 
 Everything © Daisuke "Pixel" AMAYA. I don't own any of this...
 
-Hosted at http://pixel-mirror.paperplane.io/
+Hosted at http://pixel-mirror.netlify.com/
